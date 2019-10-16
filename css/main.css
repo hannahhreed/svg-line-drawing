@@ -8,3 +8,15 @@ h1 {
   z-index: 5;
   animation: fade 3s linear;
 }
+
+#rainbow-violet {
+  animation: offset 3500ms linear forwards;
+  stroke-dasharray: 1917.692px;
+  stroke-dashoffset: 1917.692px;
+}
+
+#rainbow-indigo {
+  animation: offset 3500ms linear forwards;
+  stroke-dasharray: 1812.502px;
+  stroke-dashoffset: 1812.502;
+}
