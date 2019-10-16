@@ -1,0 +1,10 @@
+h1 {
+  font-family: "Unica One", sans-serif;
+  font-weight: lighter;
+  color: #fff;
+  max-width: 175px;
+  top: 25%;
+  left: 5%;
+  z-index: 5;
+  animation: fade 3s linear;
+}
