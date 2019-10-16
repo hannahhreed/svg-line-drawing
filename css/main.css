@@ -50,3 +50,34 @@ h1 {
   stroke-dasharray: 1243.044px;
   stroke-dashoffset: 1243.044;
 }
+
+#narwhal-eye {
+  opacity: 1;
+  animation: fade 3s linear forwards;
+}
+
+#narhwal-body {
+  animation: offset 2s linear forwards;
+  stroke-dasharray: 1981.415px;
+  stroke-dashoffset: 1981.415px;
+}
+
+@keyframes fade {
+
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+}
+
+@keyframes offset {
+
+  tp {
+    stroke-dashoffset: 0;
+  }
+
+}
