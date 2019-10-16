@@ -76,7 +76,7 @@ h1 {
 
 @keyframes offset {
 
-  tp {
+  to {
     stroke-dashoffset: 0;
   }
 
