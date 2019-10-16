@@ -44,3 +44,9 @@ h1 {
   stroke-dasharray: 1366.26px;
   stroke-dashoffset: 1366.26px;
 }
+
+#rainbow-red {
+  animation: offset 3500ms linear forwards;
+  stroke-dasharray: 1243.044px;
+  stroke-dashoffset: 1243.044;
+}
