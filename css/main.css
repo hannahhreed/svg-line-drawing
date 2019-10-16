@@ -38,3 +38,9 @@ h1 {
   stroke-dasharray: 1483.352px;
   stroke-dashoffset: 1483.352px;
 }
+
+#rainbow-orange {
+  animation: offset 3500ms linear forwards;
+  stroke-dasharray: 1366.26px;
+  stroke-dashoffset: 1366.26px;
+}
