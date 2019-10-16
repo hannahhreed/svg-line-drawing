@@ -20,3 +20,21 @@ h1 {
   stroke-dasharray: 1812.502px;
   stroke-dashoffset: 1812.502;
 }
+
+#rainbow-blue {
+  animation: offset 3500ms linear forwards;
+  stroke-dasharray: 1705.479px;
+  stroke-dashoffset: 1705.479px;
+}
+
+#rainbow-green {
+  animation: offset 3500ms linear forwards;
+  stroke-dasharray: 1596.043px;
+  stroke-dashoffset: 1596.043px;
+}
+
+#rainbow-yellow {
+  animation: offset 3500ms linear forwards;
+  stroke-dasharray: 1483.352px;
+  stroke-dashoffset: 1483.352px;
+}
